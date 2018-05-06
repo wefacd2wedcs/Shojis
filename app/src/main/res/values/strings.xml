@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Shojis</string>
+    <string name="app_name">Make it Shoji\'s</string>
+    <string name="weekly_specials"><a href="http://www.makeitshojis.com/default.asp?pg=specials">Weekly Specials</a></string>
+    <string name="street_address">2640-C BARNETT RD.</string>
+    <string name="city_state">MEDFORD, OR</string>
+    <string name="phone">541&#8211;779&#8211;6860</string>
+    <string name="shojis">Shoji\'s</string>
+    <string name="chef">Teppanyaki</string>
 </resources>
